@@ -1,6 +1,6 @@
 # NETFLIX CLONE 
+![homeprint](https://user-images.githubusercontent.com/81185330/131229640-5be095ed-ad5d-4e97-a97f-a249de5ada61.PNG)
 
-![image-20210828162009292](C:\Users\ebene\AppData\Roaming\Typora\typora-user-images\image-20210828162009292.png)
 
 ## Olá! :raised_hand_with_fingers_splayed:
 
