@@ -30,7 +30,7 @@ header .logo{
 }
 
 header nav a{
-    text-decoration:nome;
+    text-decoration:none;
     color:#aaa;
     margin-right: 10px
 }
